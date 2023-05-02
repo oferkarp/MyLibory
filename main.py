@@ -60,6 +60,6 @@ while True:
         loans_members.display_late_loans()
     elif command == Menu.EXIT.value:
         break
-print("hello")
+print("hello world")
 
 
