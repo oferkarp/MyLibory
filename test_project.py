@@ -39,3 +39,4 @@ if __name__ == '__main__':
     test_load_customer()
     test_load_book()
     test_load_loan()
+    
