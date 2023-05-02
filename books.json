@@ -1,0 +1,191 @@
+[
+    {
+        "id": "1",
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "published": "1925",
+        "type": "1"
+    },
+    {
+        "id": "2",
+        "name": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "published": "1960",
+        "type": "2"
+    },
+    {
+        "id": "3",
+        "name": "1984",
+        "author": "George Orwell",
+        "published": "1949",
+        "type": "1"
+    },
+    {
+        "id": "4",
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "published": "1813",
+        "type": "3"
+    },
+    {
+        "id": "5",
+        "name": "Animal Farm",
+        "author": "George Orwell",
+        "published": "1945",
+        "type": "2"
+    },
+    {
+        "id": "6",
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "published": "1951",
+        "type": "2"
+    },
+    {
+        "id": "7",
+        "name": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia Marquez",
+        "published": "1967",
+        "type": "1"
+    },
+    {
+        "id": "8",
+        "name": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "published": "1937",
+        "type": "1"
+    },
+    {
+        "id": "9",
+        "name": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "published": "1954",
+        "type": "1"
+    },
+    {
+        "id": "10",
+        "name": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "published": "2003",
+        "type": "3"
+    },
+    {
+        "id": "11",
+        "name": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "published": "2008",
+        "type": "2"
+    },
+    {
+        "id": "12",
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "published": "1979",
+        "type": "1"
+    },
+    {
+        "id": "13",
+        "name": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "published": "1892",
+        "type": "3"
+    },
+    {
+        "id": "14",
+        "name": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "published": "1890",
+        "type": "2"
+    },
+    {
+        "id": "15",
+        "name": "The War of the Worlds",
+        "author": "H.G. Wells",
+        "published": "1898",
+        "type": "1"
+    },
+    {
+        "id": "16",
+        "name": "Frankenstein",
+        "author": "Mary Shelley",
+        "published": "1818",
+        "type": "3"
+    },
+    {
+        "id": "17",
+        "name": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "published": "1951",
+        "type": "1"
+    },
+    {
+        "id": "18",
+        "name": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "published": "1925",
+        "type": "1"
+    },
+    {
+        "id": "19",
+        "name": "1984",
+        "author": "George Orwell",
+        "published": "1949",
+        "type": "1"
+    },
+    {
+        "id": "20",
+        "name": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "published": "1813",
+        "type": "1"
+    },
+    {
+        "id": "21",
+        "name": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "published": "1811",
+        "type": "2"
+    },
+    {
+        "id": "22",
+        "name": "Mansfield Park",
+        "author": "Jane Austen",
+        "published": "1814",
+        "type": "2"
+    },
+    {
+        "id": "23",
+        "name": "Emma",
+        "author": "Jane Austen",
+        "published": "1815",
+        "type": "2"
+    },
+    {
+        "id": "24",
+        "name": "Northanger Abbey",
+        "author": "Jane Austen",
+        "published": 1817,
+        "type": 3
+    },
+    {
+        "id": "25",
+        "name": "Little Women",
+        "author": "Louisa May Alcott",
+        "published": "1868",
+        "type": "1"
+    },
+    {
+        "id": "26",
+        "name": "Wuthering Heights",
+        "author": "Emily Bronte",
+        "published": "1847",
+        "type": "2"
+    },
+    {
+        "id": "27",
+        "name": "Jane Eyre",
+        "author": "Charlotte Bronte",
+        "published": "1847",
+        "type": "2"
+    }
+]
