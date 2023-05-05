@@ -4,6 +4,7 @@ from class_Book import BookList
 from class_Customers import CustomerList
 from constant import FILE_BOOKS, FILE_CUSTOMER, FILE_LOANS, Menu
 
+
 # Initializes the variables
 Books_members = BookList()
 Books_members.load_all_books(FILE_BOOKS)
@@ -60,7 +61,11 @@ while True:
         loans_members.display_late_loans()
     elif command == Menu.EXIT.value:
         break
-print("hello world")
 
-
+from colorama import Fore, Back, Style
+print(Fore.RED + 'some red text')
+print(Back.GREEN + 'and with a green background')
+print(Style.DIM + 'and in dim text')
+print(Style.RESET_ALL)
+print('back to normal now')
 
